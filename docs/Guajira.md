@@ -13,12 +13,7 @@ Para las especies evaluadas según su distribución por Clase en La Guajira, la 
 
 ![Gráfica 3](assets/img_gua/grafica3gua.png)
 
-Para Testudines, la mayoría se ubica en en peligro crítico (CR) con un 64.3%, mientras que el 35.7% restante corresponde a vulnerable (VU). En los grupos Squamata y Gastropoda, la totalidad de los registros (100%) se concentra en peligro crítico (CR). Por su parte, Mammalia presenta una amplia dominancia en peligro (EN) con el 79.3%, seguida de vulnerable (VU) con 11.4% y casi amenazada (NT) con 9.1%.
-
-En Magnoliopsida, predomina la categoría vulnerable (VU) con un 85.9%, acompañada por un 13.7% en peligro (EN). Para Liliopsida, los registros se distribuyen equitativamente entre vulnerable (VU) y en peligro crítico (CR), con un 50% para cada categoría. En contraste, Crocodylia se ubica en su totalidad (100%) en la categoría vulnerable (VU).
-
-Finalmente, en Aves prevalece la categoría vulnerable (VU) con un 65.5%, seguida de casi amenazada (NT) con 30.9% y proporciones menores en peligro (EN) y peligro crítico (CR). En Actinopterygii, la mayor proporción corresponde a casi amenazada (NT) con un 48.2%, seguida por vulnerable (VU) con 30.7%, en peligro (EN) con 14.3% y en peligro crítico (CR) con 6.9%.
-
+Para Mammalia, la mitad de los registros se ubica en la categoría vulnerable (VU) con un 50%, mientras que el 50% restante se distribuye en partes iguales entre casi amenazada (NT) con un 25% y en peligro (EN) con un 25%. En el grupo Magnoliopsida, predomina la categoría casi amenazada (NT) con un 66.7%, seguida por en peligro (EN) con un 22.2% y vulnerable (VU) con un 11.1%.   Por su parte, Elasmobranchii presenta una marcada dominancia en la categoría en peligro (EN) con el 80%, ubicándose el 20% restante en casi amenazada (NT). Finalmente, en Aves prevalece ampliamente la categoría casi amenazada (NT) con un 69.5%, acompañada por la categoría vulnerable (VU) con el 30.5%, sin registrarse especies en la categoría en peligro (EN) para este grupo
 ![Gráfica 4](assets/img_gua/grafica4gua.png)
 
 Para las especies evaluadas según su categoría global de amenaza según la UICN, la mayor proporción de los registros se concentra en la categoría en peligro (EN) con un 40.7% (2394), seguida por las especies clasificadas como vulnerables (VU) con un 30.3% (1780) y casi amenazadas (NT) con un 25.5% (1502). En contraste, la menor proporción corresponde a la categoría de en peligro crítico (CR), abarcando un 3.5% (204) de los registros evaluados.

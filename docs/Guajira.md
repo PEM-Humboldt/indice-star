@@ -1,6 +1,6 @@
 # Especies que se encuentran amenazadas segun IUCN
 
-Para las especies evaluadas según su condición de endemismo, un total de 2229 especies endémicas se distribuyen principalmente en la categoría de casi amenazadas (NT) con un 57.1% (1273), seguidas por aquellas en peligro (EN) con un 18.6% (415) y vulnerables (VU) con un 15.4% (343), mientras que un 8.9% (198) se encuentra en peligro crítico (CR). En contraste, las 3651 especies no endémicas se concentran mayoritariamente en la categoría de en peligro (EN) con un 54.2% (1979) y vulnerables (VU) con un 39.4% (1437), ubicándose en menor proporción en casi amenazadas (NT) con un 6.3% (229) y en peligro crítico (CR) con apenas un 0.2% (6).
+Para las especies evaluadas según su condición de endemismo en La Guajira, un total de 3 especies endémicas se distribuyen principalmente en la categoría de casi amenazadas (NT) con un 66.7% (2), seguidas por aquellas en peligro (EN) con un 33.3% (1). En contraste, las 14 713 especies no endémicas se concentran mayoritariamente en la categoría de casi amenazadas (NT) con un 69.4% (10 214) y vulnerables (VU) con un 30.5% (4493), ubicándose en menor proporción en en peligro (EN) con un 0% (6).
 
 ![Gráfica 1](assets/img_gua/grafica1gua.png)
 

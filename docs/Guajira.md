@@ -5,7 +5,7 @@ Para las especies evaluadas según su condición de endemismo en La Guajira, un 
 ![Gráfica 1](assets/img_gua/grafica1gua.png)
 
 
-Para las especies evaluadas según su distribución por Clase, la gran mayoría de los registros se concentran en Actinopterygii con un 73.3% (701), seguida en menor proporción por Mammalia con un 13.5% (129) y Magnoliopsida con un 10.7% (102). En contraste, los demás grupos taxonómicos registran representaciones minoritarias, correspondiendo a Testudines con un 0.9% (9), Amphibia con un 0.6% (6), Liliopsida con un 0.5% (5), Aves con un 0.3% (3) y Squamata con apenas un 0.1% (1).
+Para las especies evaluadas según su distribución por Clase en La Guajira, la totalidad de los registros se concentran de manera exclusiva en Mammalia con un 100% (1), sin reportarse representación de otros grupos taxonómicos.
 
 ![Gráfica 2](assets/img_gua/grafica2gua.png)
 

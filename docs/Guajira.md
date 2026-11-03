@@ -9,7 +9,7 @@ Para las especies evaluadas según su distribución por Clase en La Guajira, la 
 
 ![Gráfica 2](assets/img_gua/grafica2gua.png)
 
-Para las especies evaluadas según su distribución por Clase, la mitad de los registros se concentran en Mammalia con un 50.2% (2196), seguida por Actinopterygii con un 31.1% (1361) y Magnoliopsida con un 16.7% (732). En contraste, los demás grupos taxonómicos presentan representaciones minoritarias, correspondiendo a Aves con un 0.9% (38), Amphibia con un 0.6% (25), Testudines con un 0.3% (14), Liliopsida y Crocodylia con un 0.1% cada una (6 y 4 registros respectivamente), y con representaciones marginales inferiores al 0.1% en Squamata con 1 registro (0%) y Gastropoda con 1 registro (0%).
+Para las especies evaluadas según su distribución por Clase en La Guajira, la gran mayoría de los registros se concentran de manera abrumadora en Aves con un 99.8% (4490). En contraste, los demás grupos taxonómicos presentan representaciones mínimas, correspondiendo a Elasmobranchii con un 0.1% (4 registros), y a Mammalia y Magnoliopsida con un 0.1% cada una (3 registros respectivamente).
 
 ![Gráfica 3](assets/img_gua/grafica3gua.png)
 

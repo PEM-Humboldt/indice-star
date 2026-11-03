@@ -23,7 +23,7 @@ Para las especies evaluadas según su categoría global de amenaza según la UIC
 
 # Especies amenazadas segun resolucion 126 de 2024
 
-Para las especies evaluadas bajo alguna categoría de amenaza (excluyendo las casi amenazadas), más de la mitad de los registros se concentran en la categoría en peligro (EN) con un 54.7% (2394), seguida por las especies clasificadas como vulnerables (VU) con un 40.7% (1780). En contraste, la menor proporción corresponde a las especies en peligro crítico (CR), que representan el 4.7% (204) del total de taxones amenazados.
+Para las especies evaluadas bajo alguna categoría de amenaza (excluyendo las casi amenazadas) en La Guajira, la gran mayoría de los registros se concentran de manera casi absoluta en la categoría vulnerable (VU) con un 99.8% (4493). En contraste, la menor proporción corresponde a las especies en peligro (EN), que representan apenas el 0.2% (7) del total de taxones amenazados evaluados, sin registrarse especies en la categoría de en peligro crítico (CR).
 
 ![Gráfica 6](assets/img_gua/grafica6gua.png)
 

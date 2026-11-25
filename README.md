@@ -111,3 +111,9 @@ R_s &= \text{Potencial de recuperación de la especie } s \\
      &\quad \text{mediante acciones de restauración del hábitat}
 \end{aligned}
 $$
+
+## Flujo de trabajo ajustado a metodologia instituto Humboldt
+
+<p align="center">
+  <img src="docs/assets/img/Riqueza.jpg" width="600">
+</p>
